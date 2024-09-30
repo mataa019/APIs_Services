@@ -1,0 +1,14 @@
+{
+  "name": "webservice-apis",
+  "version": "1.0.0",
+  "description": "A web service API project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "ts": "tsc"
+  },
+  "author": "John Mataa",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
